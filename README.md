@@ -28,7 +28,7 @@ McKesson's business units are organized into four reporting segments:<sup>4</sup
 
   - McKesson's business unit supplying non-Rx medical equipment and supplies to non-acute customers, or put simply, all points of care with the exception of hospitals. According to its most recent earnings statement, Medical Surgical sales are expected to grow between 8% - 12% this fiscal year.  
 
-### The Customer Pricing Experience 
+## The Customer Pricing Experience 
 
 One major reason for a Pharmaceutical wholesaler's role in the healthcare supply chain is the sheer volume of pharmaceutical, medical supply, and biotech companies in the market today. With well over 1,300 companies manufacturing medications and over 180,000 dispensing locations<sup>3</sup> across the Unite States, a centralized point of ordering, billing, and delivery removes the need for each manufacturer to build out this capability. Similarly, customers don't have to log into each individual supplier's ordering system to purchase a medication.
 
@@ -74,7 +74,6 @@ On top of the financial risk, the reconciliation of these timing differences add
 
 customer could also gain visibility to the contract, rather that the manufacturer exclusively communicating contract terms to the wholesaler.
 
-## The Potential Benefits
 
 * What specific financial problem is the company or project trying to solve?
 
