@@ -1,7 +1,7 @@
 
 # The Case for McKesson Adopting Blockchain Technology
 
-## Overview and Origin
+## McKesson's Origin
 McKesson Corporation [MCK](https://www.cnbc.com/quotes/?symbol=MCK&qsearchterm=mck) is a publicly traded, Fortune 8 company founded in 1833 by Charles Olcott and John McKesson.<sup>1,2</sup> McKesson's business holdings have ebbed and flowed over the decades, but currently operates as the largest healthcare products distributor in North America. While many may see McKesson's size and 187 years of operations as a sign of strength, history has shown that such companies are also **ripe for disruption**.
 
 This case study will focus on one specific aspect of the healthcare distribution operating model for McKesson and its competitors: Pharmaceutical Contract Pricing. 
@@ -63,9 +63,9 @@ Distributors and manufacturers have traditionally relied on Electronic Data Inte
 
 Let's go back to our customer example with Customer B buying blood pressure medication. If the customer's contract price was increased $80 to $85 effective October 1st, but that information was not shared by Teva Pharmaceuticals until October 3rd, the customer will have incorrect invoice pricing for the three day period. The customer will be under-charged on their invoice, and the chargeback to Teva will be overstated. Worse, because this contract could impact potentially thousands of customers, the $5 per unit of product can add up very quickly. Teva may also take several days to inform McKesson of their unwillingness to pay the full chargeback amount. This ultimately leaves McKesson with a few choices:
 
-- Try and get Teva to honor the old price due to the late notification
-- Bill the customer for the additional $5 per unit after the original sale, resulting in a poor customer experience and possible collections issue, or
-- Write off the $5 lost due to the outdated pricing information used at the time of sale
+1. Try and get Teva to honor the old price due to the late notification
+1. Bill the customer for the additional $5 per unit after the original sale, resulting in a poor customer experience and possible collections issue, or
+1. Write off the $5 lost due to the outdated pricing information used at the time of sale
 
 On top of the financial risk, the reconciliation of these timing differences add considerable administrative costs for both the manufacturer and distributor.
 
