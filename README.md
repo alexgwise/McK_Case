@@ -8,7 +8,9 @@ This case study will focus on one specific aspect of the healthcare distribution
 
 ## The Competitive and Operational Landscape:
 
-McKesson is one of three major pharmaceutical wholesalers in the United States, which distribute ~92% of all medications.<sup>3</sup> Its business units are organized into four reporting segments<sup>4</sup>:
+McKesson is one of three major pharmaceutical wholesalers, including AmerisourceBergen, and Cardinal Health, which distribute ~92% of all the medications in the U.S.<sup>3</sup> AmerisourceBergen has a similar business model to that of McKesson, with a slightly increased focus on Specialty drugs. Cardinal Health also competes for the same customer base as McKesson, with the exception of its Medical Surgical practice being geared to the acute care/hospital space, while McKesson focuses on non-acute points of care. 
+
+McKesson's business units are organized into four reporting segments<sup>4</sup>:
 
 - U.S. Pharmaceutical and Specialty Solutions
 
@@ -32,7 +34,7 @@ One major reason for a Pharmaceutical wholesaler's role in the healthcare supply
 
 However, manufacturers often have multiple price points for the same medication across various customer groups who have noteable purchasing power or due to regulatory requirements. So while a given medicine may have a certain list price, there are potentially an infinite combination of customer and item price points across the U.S. This creates a need for distributors to be informed of these negotiated price points, in order to facilitate the terms of the contract between the two parties. Below is an illutrative example:
 
-Let's say McKesson purchases three bottles of blood pressure medication from Teva Pharmaceuticals for $100 per bottle. Customer A has no negotiated contract price with Teva directly, and pays $100 for the drug. Customer B has a contract with Teva, providing them with a $20 discount. Similarly, Customer C has a contract with Teva, providing them with a $30 discount. 
+Let's say McKesson purchases three bottles of blood pressure medication from Teva Pharmaceuticals for $100 per bottle. Customer A has no negotiated contract price with Teva directly, and pays $100 for the drug. In contrast, Customer B has a contract with Teva, providing them with a $20 discount.
 
 | Party       | Drug Cost   | 
 | ----------- | ----------- |
@@ -46,15 +48,11 @@ Let's say McKesson purchases three bottles of blood pressure medication from Tev
 | Customer B  | $80         |
 | Delta       | $20         |
 
-| Party       | Drug Cost   |
-| ----------- | ----------- |
-| McKesson    | $100        |
-| Customer C  | $70         |
-| Delta       | $30         |
-
-Because these customers ultimately by the product from McKesson, not Teva, McKesson must have a copy of each contract in order to accurately bill each customer. With customers B and C, McKesson has just been forced to sell a medication below its initial cost. This delta value is *charged back* to Teva. When the customer sale is made, McKesson must provide various data elements to Teva including the date of sale, invoice number, national drug code, customer DEA registration information, and contract reference ID. 
+Because Customer B ultimately buys the product from McKesson, not Teva, McKesson must have a copy of the contract in order to ensure the customer is accurately billed. In this example, McKesson has just been forced to sell a medication below its initial cost. As a result, this delta value is *charged back* to Teva. When the customer sale is made, McKesson must provide various data elements to Teva including the date of sale, invoice number, national drug code, customer DEA registration information, and contract reference ID, to be reimbursed.
 
 ### The Current Technology
+
+traditionally relied on Electronic Data Interchange (EDI) files. 
 
 administrative costs
 bad debt write offs
@@ -69,7 +67,7 @@ working capital impacts
 * What are the other major companies in this domain?
 
 
-traditionally relied on Electronic Data Interchange (EDI) files. 
+
 
 ### The Opportunity 
 
