@@ -12,24 +12,66 @@ McKesson is one of three major pharmaceutical wholesalers in the United States, 
 
 - U.S. Pharmaceutical and Specialty Solutions
 
-Comprising over 80% of McKesson's revenue, Pharmaceutical and Specialty solutions is comprised of distribution sales to Health Systems, Retail Pharmacies, Specialty Clinics, and Long-Term Care facilities. As of its last earnings release, McKesson expects this segment to experience 3% to 6% growth this fiscal year.<sup>5</sup>
+  -Comprising over 80% of McKesson's revenue, Pharmaceutical and Specialty solutions consists of distribution sales to Health Systems, Retail Pharmacies, Specialty Clinics, and Long-Term Care facilities. As of its last earnings release, McKesson expects this segment to experience 3% to 6% growth this fiscal year.<sup>5</sup>
 
 - Prescription Technology Solutions (RxTS)
 
-McKesson's Rx Technology Solutions division hosts a suite of complimentary software systems and services for its customers. Major products include Relay Health, a 50,000 pharmacy prescription payment network, CoverMyMeds which assists pharmacies and doctors with prior authorization confirmations for prescriptions, and RxCrossroads, offering patient assistance programs and adherence solutions.<sup>6,7,8</sup>
+  -McKesson's Rx Technology Solutions division hosts a suite of complimentary software systems and services for its customers. Major products include Relay Health, a 50,000 pharmacy prescription payment network, CoverMyMeds which assists pharmacies and doctors with prior authorization confirmations for prescriptions, and RxCrossroads, offering patient assistance programs and adherence solutions.<sup>6,7,8</sup>
 
 - International 
 
-
+  -A recently established reporting segment comprised of McKesson's Canadian and European operations. McKesson's Canadian business consists of both distribution operations, Well.CA, and the Rexall Pharmacy chain. McKesson Europe operations also perform distribution operations across thirteen countries, including the operation of over 2,300 Lloyds pharmacy locations.<sup>9</sup>
 
 - Medical Surgical Solutions
--- McKesson's business unit supplying non-Rx medical equipment and supplies to non-acute customers, that is, outside a hospital setting. 
+
+  -McKesson's business unit supplying non-Rx medical equipment and supplies to non-acute customers, or put simply, all points of care with the exception of hospitals. According to its most recent earnings statement, Medical Surgical sales are expected to grow between 8% - 12% this fiscal year.  
+
+### The Customer Pricing Experience 
+
+One major reason for a Pharmaceutical wholesaler's role in the healthcare supply chain is the sheer volume of pharmaceutical, medical supply, and biotech companies in the market today. With well over 1,300 companies manufacturing medications and over 180,000 dispensing locations<sup>3</sup> across the Unite States, a centralized point of ordering, billing, and delivery removes the need for each manufacturer to build out this capability. Similarly, customers don't have to log into each individual supplier's ordering system to purchase a medication.
+
+However, manufacturers often have multiple price points for the same medication across various customer groups who have noteable purchasing power or due to regulatory requirements. So while a given medicine may have a certain list price, there are potentially an infinite combination of customer and item price points across the U.S. This creates a need for distributors to be informed of these negotiated price points, in order to facilitate the terms of the contract between the two parties. Below is an illutrative example:
+
+Let's say McKesson purchases three bottles of blood pressure medication from Teva Pharmaceuticals for $100 per bottle. Customer A has no negotiated contract price with Teva directly, and pays $100 for the drug. Customer B has a contract with Teva, providing them with a $20 discount. Similarly, Customer C has a contract with Teva, providing them with a $30 discount. 
+
+| Party       | Drug Cost   | 
+| ----------- | ----------- |
+| McKesson    | $100        |
+| Customer A  | $100        |
+| Delta       | $0          |
+
+| Party       | Drug Cost   |
+| ----------- | ----------- |
+| McKesson    | $100        |
+| Customer B  | $80         |
+| Delta       | $30         |
+
+| Party       | Drug Cost   |
+| ----------- | ----------- |
+| McKesson    | $100        |
+| Customer C  | $70         |
+| Delta       | $30         |
+
+Because these customers ultimately by the product from McKesson, not Teva, McKesson must have a copy of each contract in order to accurately bill each customer. With customers B and C, McKesson has just been forced to sell a medication below its initial cost. This delta value is *charged back* to Teva. When the customer sale is made, McKesson must provide various data elements to Teva including the date of sale, invoice number, national drug code, customer DEA registration information, and contract reference ID. 
+
+### The Current Technology
+
+administrative costs
+bad debt write offs
+poor customer experience
+working capital impacts
+
 * What domain of the financial industry is the company in?
+
 
 * What have been the major trends and innovations of this domain over the last 5-10 years?
 
 * What are the other major companies in this domain?
 
+
+traditionally relied on Electronic Data Interchange (EDI) files. 
+
+### The Opportunity 
 
 ## Business Activities:
 
@@ -73,6 +115,7 @@ Sources:
 - 6: [Relay Health](https://www.mckesson.com/About-McKesson/Businesses/RelayHealth/)
 - 7: [CoverMyMeds](https://www.covermymeds.com/main/)
 - 8: [RxCrossroads](https://www.mckesson.com/About-McKesson/Businesses/RxCrossroads/) 
+- 9: [McK Europe](https://www.mckesson.eu/mck-en) 
 - Chronicled
 Capital IQ
 - Adam Fein Wholesaler Report
