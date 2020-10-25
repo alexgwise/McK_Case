@@ -12,19 +12,19 @@ McKesson is one of three major pharmaceutical wholesalers in the United States, 
 
 - U.S. Pharmaceutical and Specialty Solutions
 
-  -Comprising over 80% of McKesson's revenue, Pharmaceutical and Specialty solutions consists of distribution sales to Health Systems, Retail Pharmacies, Specialty Clinics, and Long-Term Care facilities. As of its last earnings release, McKesson expects this segment to experience 3% to 6% growth this fiscal year.<sup>5</sup>
+  - Comprising over 80% of McKesson's revenue, Pharmaceutical and Specialty solutions consists of distribution sales to Health Systems, Retail Pharmacies, Specialty Clinics, and Long-Term Care facilities. As of its last earnings release, McKesson expects this segment to experience 3% to 6% growth this fiscal year.<sup>5</sup>
 
 - Prescription Technology Solutions (RxTS)
 
-  -McKesson's Rx Technology Solutions division hosts a suite of complimentary software systems and services for its customers. Major products include Relay Health, a 50,000 pharmacy prescription payment network, CoverMyMeds which assists pharmacies and doctors with prior authorization confirmations for prescriptions, and RxCrossroads, offering patient assistance programs and adherence solutions.<sup>6,7,8</sup>
+  - McKesson's Rx Technology Solutions division hosts a suite of complimentary software systems and services for its customers. Major products include Relay Health, a 50,000 pharmacy prescription payment network, CoverMyMeds which assists pharmacies and doctors with prior authorization confirmations for prescriptions, and RxCrossroads, offering patient assistance programs and adherence solutions.<sup>6,7,8</sup>
 
 - International 
 
-  -A recently established reporting segment comprised of McKesson's Canadian and European operations. McKesson's Canadian business consists of both distribution operations, Well.CA, and the Rexall Pharmacy chain. McKesson Europe operations also perform distribution operations across thirteen countries, including the operation of over 2,300 Lloyds pharmacy locations.<sup>9</sup>
+  - A recently established reporting segment comprised of McKesson's Canadian and European operations. McKesson's Canadian business consists of both distribution operations, Well.CA, and the Rexall Pharmacy chain. McKesson Europe operations also perform distribution operations across thirteen countries, including the operation of over 2,300 Lloyds pharmacy locations.<sup>9</sup>
 
 - Medical Surgical Solutions
 
-  -McKesson's business unit supplying non-Rx medical equipment and supplies to non-acute customers, or put simply, all points of care with the exception of hospitals. According to its most recent earnings statement, Medical Surgical sales are expected to grow between 8% - 12% this fiscal year.  
+  - McKesson's business unit supplying non-Rx medical equipment and supplies to non-acute customers, or put simply, all points of care with the exception of hospitals. According to its most recent earnings statement, Medical Surgical sales are expected to grow between 8% - 12% this fiscal year.  
 
 ### The Customer Pricing Experience 
 
@@ -44,7 +44,7 @@ Let's say McKesson purchases three bottles of blood pressure medication from Tev
 | ----------- | ----------- |
 | McKesson    | $100        |
 | Customer B  | $80         |
-| Delta       | $30         |
+| Delta       | $20         |
 
 | Party       | Drug Cost   |
 | ----------- | ----------- |
