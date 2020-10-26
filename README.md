@@ -84,13 +84,20 @@ A blockchain network would provide the real-time sharing of information that pha
 
 **But wait! It gets better!**
 
-Blockchain networks are also able to use smart contract protocols. These smart contracts can help verify and enforce the terms of a contract in a digital manner.<sup>12</sup> Going back to our original example again, a smart contract rule could be established where pricing changes are made effective on or after the timestamp of the blockchain transaction. This would prevent manufacturers from communicating information that would impact previous invoices. Similar rules could be put in place requiring confirmation of contract terms from both the customer and manufacturer before they are put into effect. This smart contract capability just added a few more advantages to the list:
+Blockchain networks are also able to use smart contract protocols. These smart contracts can help verify and enforce the terms of a contract in a digital manner.<sup>12</sup> Going back to our original example again, a smart contract rule could be established where pricing changes are made effective on or after the timestamp of the blockchain transaction. This would prevent manufacturers from communicating information that would impact previous invoices. Similar rules could be put in place requiring confirmation of contract terms from both the customer and manufacturer before they are put into effect. 
 
+![](https://github.com/alexgwise/McK_Case/blob/main/customer%2C%20distributor%2C%20manufacturer.jpeg)
+
+*Image courtesy of Chronicled.com*
+
+Smart contract capabilities just added a few more advantages to the list:
+
+- Provides the customer a voice in ensuring accurate contract terms
 - Greatly reduces administrative costs in reviewing and enforcing contract terms
 - Increases chargeback payment speed from manufacturer to distributor
 
 Business Blockchain HQ's website has a helpful overview 
-[](https://github.com/alexgwise/McK_Case/blob/main/Smart-Contract-Explained.jpg)
+[](https://github.com/alexgwise/McK_Case/blob/main/Smart-Contract-Explained.jpg =75x)
 
 ## Recommendations
 
