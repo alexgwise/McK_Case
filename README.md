@@ -28,7 +28,7 @@ McKesson's business units are organized into four reporting segments:<sup>5</sup
 
   - McKesson's business unit supplying non-Rx medical equipment and supplies to non-acute customers, or put simply, all points of care with the exception of hospitals. According to its most recent earnings statement, Medical Surgical sales are expected to grow between 8% - 12% this fiscal year.<sup>6</sup>  
 
-## The Customer Pricing Experience 
+## The Domain of Pharmaceutical Pricing and the Customer Experience 
 
 One major reason for a pharmaceutical wholesaler's role in the healthcare supply chain is the sheer volume of pharmaceutical, medical supply, and biotech companies in the market today. With well over 1,300 companies manufacturing medications and over 180,000 dispensing locations<sup>3</sup> across the United States, a centralized point of ordering, billing, and delivery removes the need for each manufacturer to build out this capability separately. Similarly, customers don't have to log into each individual supplier's ordering system to purchase a medication.
 
@@ -71,7 +71,7 @@ As the distributor, McKesson is in the awkward position of trying to enforce a c
 
 On top of the financial risk, the reconciliation of these timing differences adds considerable administrative costs for both the manufacturer and distributor. You may have also noticed that the customer is not involved in communicating or validating the contract pricing the manufacturer sends to McKesson. This creates the need for additional audits and controls for the customer as well. Ultimately, everyone spends considerable time and money validating that the price they pay is correct.
 
-### The Opportunity and Potential Benefits
+### Recommendations and Potential Benefits
 
 The challenges described above are industry wide and not unique to McKesson. However, McKesson has the opportunity to gain a competitive advantage by reducing its operating costs and improving the customer experience through the use of a blockchain network.
 
@@ -99,7 +99,7 @@ With the addition of smart contract capabilities, a few more advantages have bee
 
 ## Next Steps
 
-Thankfully, as a leader in McKesson's Contract Administration department, I'm in a good position to help act on these recommended changes. In fact, my team and I are in the early stages of testing a blockchain network with the Onmark customer purchasing group, and pharmaceutical manufacturer, Genentech.<sup>13</sup> The Mediledger Network, supported by Chronicled<sup>14</sup>, represents our baby steps into this exciting technology. It is our hope that this results in a cleaner, more efficient, and cost effective approach that ultimately benefits our patients and communities. 
+Thankfully, as a leader in McKesson's Contract Administration department, I'm in a good position to help act on these recommended changes. In fact, my team and I are in the early stages of testing a blockchain network with the Onmark customer purchasing group, and pharmaceutical manufacturer, Genentech.<sup>13</sup> The Mediledger Network, supported by Chronicled<sup>14</sup>, represents our baby steps into this exciting technology. Based on the reasons outlined in the recommendations section, it is our hope that this results in a cleaner, more efficient, and cost effective approach that ultimately benefits our patients and communities. 
 
 
 ## Cool, a video recap!
