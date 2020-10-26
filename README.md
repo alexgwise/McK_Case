@@ -61,28 +61,36 @@ Distributors and manufacturers have traditionally relied on Electronic Data Inte
 
 ### The Negative Ripple Effects
 
-Let's go back to our customer example with Customer B buying blood pressure medication. If the customer's contract price was increased $80 to $85 effective October 1st, but that information was not shared by Teva Pharmaceuticals until October 3rd, the customer will have incorrect invoice pricing for the three day period. The customer will be under-charged on their invoice, and the chargeback to Teva will be overstated. Worse, because this contract could impact potentially thousands of customers, the $5 per unit of product can add up very quickly. Teva may also take several days to inform McKesson of their unwillingness to pay the full chargeback amount. This ultimately leaves McKesson with a few choices:
+Let's go back to our customer example where Customer B is buying discounted blood pressure medication. If the customer's contract price was increased from $80 to $85 effective October 1st, but that information was not shared with McKesson by Teva until October 3rd, the customer will have incorrect invoice pricing for the three day period. The customer will be charged too low of a price, and the "chargeback" to Teva will be overstated. Worse, because this contract could impact potentially thousands of other customers, the $5 discrepancy per unit of product can add up very quickly. This ultimately leaves McKesson with a few choices:
 
-1. Try and get Teva to honor the old price due to the late notification
-1. Bill the customer for the additional $5 per unit after the original sale, resulting in a poor customer experience and possible collections issue, or
+1. Try and get Teva to honor the old contract price due to the late notification
+1. Bill the customer for the additional $5 per unit after the original sale, resulting in a poor customer experience and possible collections issue
 1. Write off the $5 lost due to the outdated pricing information used at the time of sale
 
-On top of the financial risk, the reconciliation of these timing differences add considerable administrative costs for both the manufacturer and distributor.
+As the distributor, McKesson is in the awkward position of trying to enforce a contract that it is not a signing member of. The customer would argue they should not be liable for the manufacturer's delayed communication to the distributor. The manufacturer would argue the customer has a signed copy of the contract, and was already aware of the price increase. 
+
+On top of the financial risk, the reconciliation of these timing differences add considerable administrative costs for both the manufacturer and distributor. You may have also noticed that the customer is not involved in communicating or validating the contract pricing the manufacturer communicates to McKesson. This creates the need for additional audits and controls for the customer as well. Ultimately, everyone spends considerable time and money validating that the price they pay is correct.
 
 ### The Opportunity and Potential Benefits
 
+The challenges described above are industry wide and not unique to McKesson. However, McKesson has the opportunity to gain a competitive advantage by eliminating these timing gaps through the use of a blockchain network.
 
-customer could also gain visibility to the contract, rather that the manufacturer exclusively communicating contract terms to the wholesaler.
+Blockchain technology, in its simplest terms, is a peer to peer network that utilizes a distributed ledger.<sup>11</sup> Meaning, each of the participants on a blockchain network share the same set of books. Everyone has a copy, making it difficult for any one participant to forge records. Each blockchain participant has access to see the transactions entered into the distributed ledger. The term blockchain refers to how transactions are recorded and stored. Activity on a blockchain network is unchangeable with each record having a unique identifier and timestamp (block), and is linked to the previous set of transactions (chain). 
 
+A blockchain network would provide the real-time sharing of information that pharmaceutical pricing contracts lack today. Rather than transmitting EDIs unilaterally and then hoping the receiver ingests them into their respective system of record (SAP, JD Edwards, etc.) on time, all participants would share a distributed ledger on the blockchain network. In our earlier example, if Teva raises the price of a drug for a particular customer, that contract update would be shared with the customer and distributor in near real time. This addresses several shortcomings in the current process:
 
-* What specific financial problem is the company or project trying to solve?
+- Eliminates communication delays
+- Customers gain confidence that the manufacturer and distributor records are in sync
 
-* Who is the company's intended customer?  Is there any information about the market size of this set of customers?
-What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+**But wait! It gets better!**
 
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+Blockchain networks are also able to use smart contract protocols. These smart contracts can help verify and enforce the terms of a contract in a digital manner.<sup>12</sup> Going back to our original example again, a smart contract rule could be established where pricing changes are made effective on or after the timestamp of the blockchain transaction. This would prevent manufacturers from communicating information that would impact previous invoices. Similar rules could be put in place requiring confirmation of contract terms from both the customer and manufacturer before they are put into effect. This smart contract capability just added a few more advantages to the list:
 
-[![Blockchain](http://img.youtube.com/vi/5MArmZpzU68/0.jpg)](https://youtu.be/5MArmZpzU68 "Contracts and Chargebacks")
+- Greatly reduces administrative costs in reviewing and enforcing contract terms
+- Increases chargeback payment speed from manufacturer to distributor
+
+Business Blockchain HQ's website has a helpful overview 
+[](https://github.com/alexgwise/McK_Case/blob/main/Smart-Contract-Explained.jpg)
 
 ## Recommendations
 
@@ -94,6 +102,8 @@ Thankfully, as an employee of McKesson in our Contract Administration department
 * What technologies would this additional product or service utilize?
 
 * Why are these technologies appropriate for your solution?
+
+[![Blockchain](http://img.youtube.com/vi/5MArmZpzU68/0.jpg)](https://youtu.be/5MArmZpzU68 "Contracts and Chargebacks")
 
 ## Works Cited
 
@@ -109,7 +119,8 @@ Sources:
 - 9: [RxCrossroads](https://www.mckesson.com/About-McKesson/Businesses/RxCrossroads/) 
 - 10: [McK Europe](https://www.mckesson.eu/mck-en) 
 - 11: [EDI](https://www.edibasics.com/what-is-edi/)
-- 11: [Proprietary Data]
+- 11: [Blockchain 101](https://www.computerworld.com/article/3191077/what-is-blockchain-the-complete-guide.html)
+- 12: [Block Geeks](https://blockgeeks.com/guides/smart-contracts/)
 - Chronicled
 Capital IQ
 - Adam Fein Wholesaler Report
