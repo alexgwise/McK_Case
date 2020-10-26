@@ -14,15 +14,15 @@ McKesson's business units are organized into four reporting segments:<sup>5</sup
 
 - U.S. Pharmaceutical and Specialty Solutions
 
-  - Comprising over 80% of McKesson's revenue, Pharmaceutical and Specialty solutions consists of distribution sales to Health Systems, Retail Pharmacies, Specialty Clinics, and Long-Term Care facilities. As of its last earnings release, McKesson expects this segment to experience 3% to 6% growth this fiscal year.<sup>6</sup>
+  - Comprising over 80% of McKesson's revenue, Pharmaceutical and Specialty Solutions consists of distribution sales to health systems, retail pharmacies, specialty clinics, and long-term care facilities. As of its last earnings release, McKesson expects this segment to experience 3% to 6% growth this fiscal year.<sup>6</sup>
 
 - Prescription Technology Solutions (RxTS)
 
-  - McKesson's Rx Technology Solutions division hosts a suite of complimentary software systems and services for its customers. Major products include Relay Health, a 50,000 pharmacy prescription payment network, CoverMyMeds which assists pharmacies and doctors with prior authorization confirmations for prescriptions, and RxCrossroads, offering patient assistance programs and adherence solutions.<sup>7,8,9</sup>
+  - McKesson's Rx Technology Solutions division hosts a suite of complimentary software systems and services for its customers. Major products include Relay Health, a 50,000 pharmacy prescription payment network, CoverMyMeds, which assists pharmacies and doctors with prior authorization confirmations for prescriptions, and RxCrossroads, offering patient assistance programs and adherence solutions.<sup>7,8,9</sup>
 
 - International 
 
-  - A recently established reporting segment comprised of McKesson's Canadian and European operations. McKesson's Canadian business consists of both distribution operations, Well.CA, and the Rexall Pharmacy chain. McKesson Europe operations also perform distribution operations across thirteen countries, including the operation of over 2,300 Lloyds pharmacy locations.<sup>10</sup>
+  - A recently established reporting segment comprised of McKesson's Canadian and European operations. McKesson's Canadian business consists of distribution operations, Well.CA, and the Rexall Pharmacy chain. McKesson Europe operations also perform distribution operations across thirteen countries, including the operation of over 2,300 Lloyds pharmacy locations.<sup>10</sup>
 
 - Medical Surgical Solutions
 
@@ -30,11 +30,11 @@ McKesson's business units are organized into four reporting segments:<sup>5</sup
 
 ## The Customer Pricing Experience 
 
-One major reason for a Pharmaceutical wholesaler's role in the healthcare supply chain is the sheer volume of pharmaceutical, medical supply, and biotech companies in the market today. With well over 1,300 companies manufacturing medications and over 180,000 dispensing locations<sup>3</sup> across the Unite States, a centralized point of ordering, billing, and delivery removes the need for each manufacturer to build out this capability. Similarly, customers don't have to log into each individual supplier's ordering system to purchase a medication.
+One major reason for a pharmaceutical wholesaler's role in the healthcare supply chain is the sheer volume of pharmaceutical, medical supply, and biotech companies in the market today. With well over 1,300 companies manufacturing medications and over 180,000 dispensing locations<sup>3</sup> across the United States, a centralized point of ordering, billing, and delivery removes the need for each manufacturer to build out this capability separately. Similarly, customers don't have to log into each individual supplier's ordering system to purchase a medication.
 
-However, manufacturers often have multiple price points for the same medication across various customer groups who have noteable purchasing power or due to regulatory requirements. So while a given medicine may have a certain list price, there are potentially an infinite combination of customer and item price points across the U.S. This creates a need for distributors to be informed of these negotiated price points in order to facilitate the terms of the contract between the two parties. Below is an illutrative example:
+However, manufacturers often have multiple price points for the same medication across various customer groups, due to their negotiating strength or regulatory requirements. Therefore, while a given medicine may have a certain list price, there are potentially an infinite combination of customer and item price points across the U.S. This creates a need for distributors to be informed of these negotiated price points in order to facilitate the terms of the contract between the two parties. Below is an illutrative example:
 
-Let's say McKesson purchases three bottles of blood pressure medication from Teva Pharmaceuticals for $100 per bottle. Customer A has no negotiated contract price with Teva directly, and pays $100 for the drug. In contrast, Customer B has a contract with Teva, providing them with a $20 discount.
+Let's say McKesson purchases two bottles of blood pressure medication from Teva Pharmaceuticals for $100 per bottle. Customer A has no negotiated contract price with Teva directly, and pays $100 for the drug. In contrast, Customer B has a contract with Teva, where they have negotiated a $20 discount.
 
 | Party       | Drug Cost   | 
 | :---------: | :---------: |
@@ -48,15 +48,15 @@ Let's say McKesson purchases three bottles of blood pressure medication from Tev
 | Customer B  | $80         |
 | Delta       | $20         |
 
-Because Customer B ultimately buys the product from McKesson, not Teva, McKesson must have a copy of the contract in order to ensure the customer is accurately billed. In this example, McKesson has just been forced to sell a medication below its initial cost. As a result, this delta value is ***charged back*** to Teva. When the customer sale is made, McKesson must provide various data elements to Teva including the date of sale, invoice number, national drug code, customer DEA registration information, and contract reference ID, to be reimbursed.
+Because Customer B ultimately buys the product from McKesson, not Teva, McKesson must have a copy of the contract in order to ensure the customer is accurately billed. In this example, McKesson has just been forced to sell a medication below its initial cost. As a result, this delta value is ***charged back*** to Teva. When the customer sale is made, McKesson must provide various data elements to Teva including the date of sale, invoice number, national drug code, customer DEA registration information, and contract reference ID, in order to be reimbursed.
 
 ### The Current Technology
 
-Distributors and manufacturers have traditionally relied on Electronic Data Interchange (EDI) files for sharing contract pricing information and for performing chargeback reconciliation.<sup>9</sup> A few of its advantages are its high degree of standardization, wide industry adoption, and relatively low cost. That said, EDI files also have several drawbacks:
+Distributors and manufacturers have traditionally relied on Electronic Data Interchange (EDI) files for sharing contract pricing information and for performing chargeback reconciliation.<sup>9</sup> A few of its advantages are its high degree of standardization, wide industry adoption, and relatively low cost. That said, EDI files also have drawbacks:
 
-- Typically processed in batches rather than real time
+- Information is typically processed in batches rather than real time
 - Information only, not smart contract enforceable
-- Not visible to the end customer
+- Not visible to the end customer and no customer validation of data
 - Subject to manipulation
 
 ### The Negative Ripple Effects
@@ -69,32 +69,33 @@ Let's go back to our customer example where Customer B is buying discounted bloo
 
 As the distributor, McKesson is in the awkward position of trying to enforce a contract that it is not a signing member of. The customer would argue they should not be liable for the manufacturer's delayed communication to the distributor. The manufacturer would argue the customer has a signed copy of the contract, and was already aware of the price increase. 
 
-On top of the financial risk, the reconciliation of these timing differences add considerable administrative costs for both the manufacturer and distributor. You may have also noticed that the customer is not involved in communicating or validating the contract pricing the manufacturer communicates to McKesson. This creates the need for additional audits and controls for the customer as well. Ultimately, everyone spends considerable time and money validating that the price they pay is correct.
+On top of the financial risk, the reconciliation of these timing differences adds considerable administrative costs for both the manufacturer and distributor. You may have also noticed that the customer is not involved in communicating or validating the contract pricing the manufacturer sends to McKesson. This creates the need for additional audits and controls for the customer as well. Ultimately, everyone spends considerable time and money validating that the price they pay is correct.
 
 ### The Opportunity and Potential Benefits
 
-The challenges described above are industry wide and not unique to McKesson. However, McKesson has the opportunity to gain a competitive advantage by eliminating these timing gaps through the use of a blockchain network.
+The challenges described above are industry wide and not unique to McKesson. However, McKesson has the opportunity to gain a competitive advantage by reducing its operating costs and improving the customer experience through the use of a blockchain network.
 
-Blockchain technology, in its simplest terms, is a peer to peer network that utilizes a distributed ledger.<sup>11</sup> Meaning, each of the participants on a blockchain network share the same set of books. Everyone has a copy, making it difficult for any one participant to forge records. Each blockchain participant has access to see the transactions entered into the distributed ledger. The term blockchain refers to how transactions are recorded and stored. Activity on a blockchain network is unchangeable with each record having a unique identifier and timestamp (block), and is linked to the previous set of transactions (chain). 
+Blockchain technology, in its simplest terms, is a peer to peer network that utilizes a distributed ledger. Meaning, each of the participants on a blockchain network share the same set of books. Everyone has a copy, making it difficult for any one participant to forge records. Each blockchain participant has access to see the transactions entered into the distributed ledger. The term blockchain refers to how transactions are recorded and stored. Activity on a blockchain network is unchangeable with each record having a unique identifier and timestamp (block), and is linked to the previous set of transactions (chain).<sup>11</sup> 
 
-A blockchain network would provide the real-time sharing of information that pharmaceutical pricing contracts lack today. Rather than transmitting EDIs unilaterally and then hoping the receiver ingests them into their respective system of record (SAP, JD Edwards, etc.) on time, all participants would share a distributed ledger on the blockchain network. In our earlier example, if Teva raises the price of a drug for a particular customer, that contract update would be shared with the customer and distributor in near real time. This addresses several shortcomings in the current process:
+For McKesson's purposes, a blockchain network would provide the real-time sharing of information that pharmaceutical pricing contracts lack today. Rather than transmitting EDIs unilaterally and then hoping the receiver ingests them into their respective system of record (SAP, JD Edwards, etc.), all participants would share a distributed ledger on the blockchain network. In our earlier example, if Teva raises the price of a drug for a particular customer, that contract update would be shared with the customer and distributor in near real time. This addresses some shortcomings in the current EDI process:
 
 - Eliminates communication delays
-- Customers gain confidence that the manufacturer and distributor records are in sync
+- Ensures everyone's version and timing of contract changes are in sync
+- Increases customer's confidence in the pricing shown in the distributor's ordering system
 
 **But wait! It gets better!**
 
-Blockchain networks are also able to use smart contract protocols. These smart contracts can help verify and enforce the terms of a contract in a digital manner.<sup>12</sup> Going back to our original example again, a smart contract rule could be established where pricing changes are made effective on or after the timestamp of the blockchain transaction. This would prevent manufacturers from communicating information that would impact previous invoices. Similar rules could be put in place requiring confirmation of contract terms from both the customer and manufacturer before they are put into effect. 
+Blockchain networks are also able to use smart contract protocols. These smart contracts can help verify and enforce the terms of a contract in a digital manner.<sup>12</sup> Going back to our original example again, a smart contract rule could be established where pricing changes are made effective on or after the timestamp of the blockchain transaction. This would prevent manufacturers from communicating information that would attempt to impact previous customer invoices. Similar rules could be put in place requiring confirmation of contract terms from both the customer and manufacturer before changes take effect. 
 
 ![](https://github.com/alexgwise/McK_Case/blob/main/customer%2C%20distributor%2C%20manufacturer.jpeg)
 
 *Image courtesy of Chronicled.com*
 
-Smart contract capabilities just added a few more advantages to the list:
+With the addition of smart contract capabilities, a few more advantages have been added to the list:
 
-- Provides the customer a voice in ensuring accurate contract terms
+- Provides the customer a voice in ensuring accurate contract pricing
 - Greatly reduces administrative costs in reviewing and enforcing contract terms
-- Increases chargeback payment speed from manufacturer to distributor
+- Increases chargeback payment speed from the manufacturer to the distributor
 
 ## Next Steps
 
