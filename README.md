@@ -96,19 +96,14 @@ Smart contract capabilities just added a few more advantages to the list:
 - Greatly reduces administrative costs in reviewing and enforcing contract terms
 - Increases chargeback payment speed from manufacturer to distributor
 
-Business Blockchain HQ's website has a helpful overview 
-[](https://github.com/alexgwise/McK_Case/blob/main/Smart-Contract-Explained.jpg =75x)
+## Next Steps
 
-## Recommendations
+Thankfully, as a leader in McKesson's Contract Administration department, I'm in a good position to help act on these recommended changes. In fact, my team and I are in the early stages of testing a blockchain network with the Onmark customer purchasing group, and pharmaceutical manufacturer, Genentech.<sup>13</sup> The Mediledger Network, supported by Chronicled<sup>14</sup>, represents our baby steps into this exciting technology. It is our hope that this results in a cleaner, more efficient, and cost effective approach that ultimately benefits our patients and communities. 
 
-Thankfully, as an employee of McKesson in our Contract Administration department, I'm in a good position to recommend these changes. In fact, we are in the early stages of testing our blockchain node with 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
 
-* Why do you think that offering this product or service would benefit the company?
+## Cool, a video recap!
 
-* What technologies would this additional product or service utilize?
-
-* Why are these technologies appropriate for your solution?
+Finally, if this was TLDR, please check out Chronicled's Youtube video, which gives a very nice description of the current opportunity and benefits. I'm excited to be part of this journey.
 
 [![Blockchain](http://img.youtube.com/vi/5MArmZpzU68/0.jpg)](https://youtu.be/5MArmZpzU68 "Contracts and Chargebacks")
 
@@ -128,9 +123,5 @@ Sources:
 - 11: [EDI](https://www.edibasics.com/what-is-edi/)
 - 11: [Blockchain 101](https://www.computerworld.com/article/3191077/what-is-blockchain-the-complete-guide.html)
 - 12: [Block Geeks](https://blockgeeks.com/guides/smart-contracts/)
-- Chronicled
-Capital IQ
-- Adam Fein Wholesaler Report
-- Drug Channels
-- DSCSA legislation
-- 340B Act
+- 13: [Forbes](https://www.forbes.com/sites/rachelwolfson/2019/05/02/pfizer-and-other-healthcare-companies-aim-to-bring-blockchain-based-chargeback-protocol-to-market/#50ceea31f5b3)
+- 14: [Chronicled](https://www.chronicled.com/chargebacks)
