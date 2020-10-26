@@ -32,7 +32,7 @@ McKesson's business units are organized into four reporting segments:<sup>5</sup
 
 One major reason for a pharmaceutical wholesaler's role in the healthcare supply chain is the sheer volume of pharmaceutical, medical supply, and biotech companies in the market today. With well over 1,300 companies manufacturing medications and over 180,000 dispensing locations<sup>3</sup> across the United States, a centralized point of ordering, billing, and delivery removes the need for each manufacturer to build out this capability separately. Similarly, customers don't have to log into each individual supplier's ordering system to purchase a medication.
 
-However, manufacturers often have multiple price points for the same medication across various customer groups, due to their negotiating strength or regulatory requirements. Therefore, while a given medicine may have a certain list price, there are potentially an infinite combination of customer and item price points across the U.S. This creates a need for distributors to be informed of these negotiated price points in order to facilitate the terms of the contract between the two parties. Below is an illutrative example:
+However, manufacturers often have multiple price points for the same medication across various customer groups, due to their negotiating strength or regulatory requirements. Therefore, while a given medicine may have a certain list price, there are potentially an infinite combination of customer and item price points across the U.S. This creates a need for distributors to be informed of these negotiated price points in order to facilitate the terms of the contract between the two parties. Below is an illustrative example:
 
 Let's say McKesson purchases two bottles of blood pressure medication from Teva Pharmaceuticals for $100 per bottle. Customer A has no negotiated contract price with Teva directly, and pays $100 for the drug. In contrast, Customer B has a contract with Teva, where they have negotiated a $20 discount.
 
@@ -61,7 +61,7 @@ Distributors and manufacturers have traditionally relied on Electronic Data Inte
 
 ### The Negative Ripple Effects
 
-Let's go back to our customer example where Customer B is buying discounted blood pressure medication. If the customer's contract price was increased from $80 to $85 effective October 1st, but that information was not shared with McKesson by Teva until October 3rd, the customer will have incorrect invoice pricing for the three day period. The customer will be charged too low of a price, and the "chargeback" to Teva will be overstated. Worse, because this contract could impact potentially thousands of other customers, the $5 discrepancy per unit of product can add up very quickly. This ultimately leaves McKesson with a few choices:
+Let's go back to our customer example where Customer B is buying discounted blood pressure medication. If the customer's contract price was increased from $80 to $85 effective October 1st, but that information was not shared with McKesson by Teva until October 3rd, the customer will have incorrect invoice pricing for the three-day period. The customer will be charged too low of a price, and the "chargeback" to Teva will be overstated. Worse, because this contract could impact potentially thousands of other customers, the $5 discrepancy per unit of product can add up very quickly. This ultimately leaves McKesson with a few choices:
 
 1. Try and get Teva to honor the old contract price due to the late notification
 1. Bill the customer for the additional $5 per unit after the original sale, resulting in a poor customer experience and possible collections issue
@@ -104,7 +104,7 @@ Thankfully, as a leader in McKesson's Contract Administration department, I'm in
 
 ## Cool, a video recap!
 
-Finally, if this was TLDR, please check out Chronicled's Youtube video, which gives a very nice description of the current opportunity and benefits. I'm excited to be part of this journey.
+Finally, if this was TLDR, please check out Chronicled's YouTube video, which gives a very nice description of the current opportunity and benefits. I'm excited to be part of this journey.
 
 [![Blockchain](http://img.youtube.com/vi/5MArmZpzU68/0.jpg)](https://youtu.be/5MArmZpzU68 "Contracts and Chargebacks")
 
