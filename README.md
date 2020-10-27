@@ -102,7 +102,7 @@ With the addition of smart contract capabilities, a few more advantages have bee
 Thankfully, as a leader in McKesson's Contract Administration department, I'm in a good position to help act on these recommended changes. In fact, my team and I are in the early stages of testing a blockchain network with the Onmark customer purchasing group, and pharmaceutical manufacturer, Genentech.<sup>14</sup> The Mediledger Network, supported by Chronicled<sup>15</sup>, represents our baby steps into this exciting technology. Based on the reasons outlined in the recommendations section, it is our hope that this results in a cleaner, more efficient, and cost effective approach that ultimately benefits our patients and communities. 
 
 
-## Cool, a video recap!
+## Cool, A Video Recap!
 
 Finally, if this was TLDR, please check out Chronicled's YouTube video, which gives a very nice description of the current opportunity and benefits. I'm excited to be part of this journey.
 
