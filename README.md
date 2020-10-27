@@ -83,9 +83,9 @@ For McKesson's purposes, a blockchain network would provide the real-time sharin
 - Ensures everyone's version and timing of contract changes are in sync
 - Increases customer's confidence in the pricing shown in the distributor's ordering system
 
-**But wait! It gets better!**
+### But wait! It gets better!
 
-Blockchain networks are also able to use smart contract protocols. These smart contracts can help verify and enforce the terms of a contract in a digital manner.<sup>12</sup> Going back to our original example again, a smart contract rule could be established where pricing changes are made effective on or after the timestamp of the blockchain transaction. This would prevent manufacturers from communicating information that would attempt to impact previous customer invoices. Similar rules could be put in place requiring confirmation of contract terms from both the customer and manufacturer before changes take effect. 
+Blockchain networks are also able to use **smart contract** protocols. These smart contracts can help verify and enforce the terms of a contract in a digital manner.<sup>12</sup> Going back to our original example again, a smart contract rule could be established where pricing changes are made effective on or after the timestamp of the blockchain transaction. This would prevent manufacturers from communicating information that would attempt to impact previous customer invoices. Similar rules could be put in place requiring confirmation of contract terms from both the customer and manufacturer before changes take effect. 
 
 ![](https://github.com/alexgwise/McK_Case/blob/main/customer%2C%20distributor%2C%20manufacturer.jpeg)
 
