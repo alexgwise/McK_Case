@@ -111,18 +111,18 @@ Finally, if this was TLDR, please check out Chronicled's YouTube video, which gi
 ## Works Cited
 
 Sources: 
-- 1: [Fortune.com](https://fortune.com/company/mckesson/fortune500/)
-- 2: [McKesson History](https://www.mckesson.com/About-McKesson/Our-History/)
-- 3: [Healthcare Distribution Alliance](https://hda.org) 
-- 4: [AmerisourceBergen](https://www.amerisourcebergen.com/about-who-we-are)
-- 5: [McKesson Investor Relations](https://investor.mckesson.com/news/financial-news/2020/McKesson-Realigns-Organizational-Structure-to-Better-Serve-Customers-and-Patients-While-Optimizing-Growth/default.aspx)
-- 6: [Fiscal Q1 Earnings Release](https://s24.q4cdn.com/128197368/files/doc_financials/2021/q1/MCK-Q1FY21-Earnings-Call-Slides-Final.pdf)
-- 7: [Relay Health](https://www.mckesson.com/About-McKesson/Businesses/RelayHealth/)
-- 8: [CoverMyMeds](https://www.covermymeds.com/main/)
-- 9: [RxCrossroads](https://www.mckesson.com/About-McKesson/Businesses/RxCrossroads/) 
-- 10: [McK Europe](https://www.mckesson.eu/mck-en) 
-- 11: [EDI](https://www.edibasics.com/what-is-edi/)
-- 12: [Blockchain 101](https://www.computerworld.com/article/3191077/what-is-blockchain-the-complete-guide.html)
-- 13: [Block Geeks](https://blockgeeks.com/guides/smart-contracts/)
-- 14: [Forbes](https://www.forbes.com/sites/rachelwolfson/2019/05/02/pfizer-and-other-healthcare-companies-aim-to-bring-blockchain-based-chargeback-protocol-to-market/#50ceea31f5b3)
-- 15: [Chronicled](https://www.chronicled.com/chargebacks)
+- 1: [Fortune.com](https://fortune.com/company/mckesson/fortune500/) McKesson Rank 8
+- 2: [McKesson History](https://www.mckesson.com/About-McKesson/Our-History/) A Heritage of Delivering Better Health
+- 3: [Healthcare Distribution Alliance](https://www.hda.org/~/media/pdfs/publications/hda-role-of-distributors-in-the-us-health-care-industry.ashx) The Role of Distributors, Executive Summary
+- 4: [AmerisourceBergen](https://www.amerisourcebergen.com/about-who-we-are) Company Overview
+- 5: [McKesson Investor Relations](https://investor.mckesson.com/news/financial-news/2020/McKesson-Realigns-Organizational-Structure-to-Better-Serve-Customers-and-Patients-While-Optimizing-Growth/default.aspx) Organizational Structure Press Release
+- 6: [Fiscal Q1 Earnings Release](https://s24.q4cdn.com/128197368/files/doc_financials/2021/q1/MCK-Q1FY21-Earnings-Call-Slides-Final.pdf) Fiscal 2021 Outlook
+- 7: [Relay Health](https://www.mckesson.com/About-McKesson/Businesses/RelayHealth/) Relay Health Business Overview
+- 8: [CoverMyMeds](https://www.covermymeds.com/main/) CoverMyMeds Business Overview
+- 9: [RxCrossroads](https://www.mckesson.com/About-McKesson/Businesses/RxCrossroads/) RxCrossRoads Business Overview 
+- 10: [McK Europe](https://www.mckesson.eu/mck-en) McKesson Europe Business Overview
+- 11: [EDI](https://www.edibasics.com/what-is-edi/) What is EDI
+- 12: [Computer World](https://www.computerworld.com/article/3191077/what-is-blockchain-the-complete-guide.html) What is Blockchain? The Complete Guide
+- 13: [Block Geeks](https://blockgeeks.com/guides/smart-contracts/) Smart Contracts
+- 14: [Forbes](https://www.forbes.com/sites/rachelwolfson/2019/05/02/pfizer-and-other-healthcare-companies-aim-to-bring-blockchain-based-chargeback-protocol-to-market/#50ceea31f5b3) Pfizer And Others Join Working Group To Use Blockchain Protocol For Supply Chain Management
+- 15: [Chronicled](https://www.chronicled.com/chargebacks) Mediledger Chargebacks Overview
