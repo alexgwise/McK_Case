@@ -52,7 +52,7 @@ Because Customer B ultimately buys the product from McKesson, not Teva, McKesson
 
 ### The Current Technology
 
-Distributors and manufacturers have traditionally relied on Electronic Data Interchange (EDI) files for sharing contract pricing information and for performing chargeback reconciliation.<sup>9</sup> A few of its advantages are its high degree of standardization, wide industry adoption, and relatively low cost. That said, EDI files also have drawbacks:
+Distributors and manufacturers have traditionally relied on Electronic Data Interchange (EDI) files for sharing contract pricing information and for performing chargeback reconciliation.<sup>11</sup> A few of its advantages are its high degree of standardization, wide industry adoption, and relatively low cost. That said, EDI files also have drawbacks:
 
 - Information is typically processed in batches rather than real time
 - Information only, not smart contract enforceable
@@ -75,7 +75,7 @@ On top of the financial risk, the reconciliation of these timing differences add
 
 The challenges described above are industry wide and not unique to McKesson. However, McKesson has the opportunity to gain a competitive advantage by reducing its operating costs and improving the customer experience through the use of a blockchain network.
 
-Blockchain technology, in its simplest terms, is a peer to peer network that utilizes a distributed ledger. Meaning, each of the participants on a blockchain network share the same set of books. Everyone has a copy, making it difficult for any one participant to forge records. Each blockchain participant has access to see the transactions entered into the distributed ledger. The term blockchain refers to how transactions are recorded and stored. Activity on a blockchain network is unchangeable with each record having a unique identifier and timestamp (block), and is linked to the previous set of transactions (chain).<sup>11</sup> 
+Blockchain technology, in its simplest terms, is a peer to peer network that utilizes a distributed ledger. Meaning, each of the participants on a blockchain network share the same set of books. Everyone has a copy, making it difficult for any one participant to forge records. Each blockchain participant has access to see the transactions entered into the distributed ledger. The term blockchain refers to how transactions are recorded and stored. Activity on a blockchain network is unchangeable with each record having a unique identifier and timestamp (block), and is linked to the previous set of transactions (chain).<sup>12</sup> 
 
 For McKesson's purposes, a blockchain network would provide the real-time sharing of information that pharmaceutical pricing contracts lack today. Rather than transmitting EDIs unilaterally and then hoping the receiver ingests them into their respective system of record (SAP, JD Edwards, etc.), all participants would share a distributed ledger on the blockchain network. In our earlier example, if Teva raises the price of a drug for a particular customer, that contract update would be shared with the customer and distributor in near real time. This addresses some shortcomings in the current EDI process:
 
@@ -85,7 +85,7 @@ For McKesson's purposes, a blockchain network would provide the real-time sharin
 
 ### But wait! It gets better!
 
-Blockchain networks are also able to use **smart contract** protocols. These smart contracts can help verify and enforce the terms of a contract in a digital manner.<sup>12</sup> Going back to our original example again, a smart contract rule could be established where pricing changes are made effective on or after the timestamp of the blockchain transaction. This would prevent manufacturers from communicating information that would attempt to impact previous customer invoices. Similar rules could be put in place requiring confirmation of contract terms from both the customer and manufacturer before changes take effect. 
+Blockchain networks are also able to use **smart contract** protocols. These smart contracts can help verify and enforce the terms of a contract in a digital manner.<sup>13</sup> Going back to our original example again, a smart contract rule could be established where pricing changes are made effective on or after the timestamp of the blockchain transaction. This would prevent manufacturers from communicating information that would attempt to impact previous customer invoices. Similar rules could be put in place requiring confirmation of contract terms from both the customer and manufacturer before changes take effect. 
 
 ![](https://github.com/alexgwise/McK_Case/blob/main/customer%2C%20distributor%2C%20manufacturer.jpeg)
 
@@ -99,7 +99,7 @@ With the addition of smart contract capabilities, a few more advantages have bee
 
 ## Next Steps
 
-Thankfully, as a leader in McKesson's Contract Administration department, I'm in a good position to help act on these recommended changes. In fact, my team and I are in the early stages of testing a blockchain network with the Onmark customer purchasing group, and pharmaceutical manufacturer, Genentech.<sup>13</sup> The Mediledger Network, supported by Chronicled<sup>14</sup>, represents our baby steps into this exciting technology. Based on the reasons outlined in the recommendations section, it is our hope that this results in a cleaner, more efficient, and cost effective approach that ultimately benefits our patients and communities. 
+Thankfully, as a leader in McKesson's Contract Administration department, I'm in a good position to help act on these recommended changes. In fact, my team and I are in the early stages of testing a blockchain network with the Onmark customer purchasing group, and pharmaceutical manufacturer, Genentech.<sup>14</sup> The Mediledger Network, supported by Chronicled<sup>15</sup>, represents our baby steps into this exciting technology. Based on the reasons outlined in the recommendations section, it is our hope that this results in a cleaner, more efficient, and cost effective approach that ultimately benefits our patients and communities. 
 
 
 ## Cool, a video recap!
@@ -122,7 +122,7 @@ Sources:
 - 9: [RxCrossroads](https://www.mckesson.com/About-McKesson/Businesses/RxCrossroads/) 
 - 10: [McK Europe](https://www.mckesson.eu/mck-en) 
 - 11: [EDI](https://www.edibasics.com/what-is-edi/)
-- 11: [Blockchain 101](https://www.computerworld.com/article/3191077/what-is-blockchain-the-complete-guide.html)
-- 12: [Block Geeks](https://blockgeeks.com/guides/smart-contracts/)
-- 13: [Forbes](https://www.forbes.com/sites/rachelwolfson/2019/05/02/pfizer-and-other-healthcare-companies-aim-to-bring-blockchain-based-chargeback-protocol-to-market/#50ceea31f5b3)
-- 14: [Chronicled](https://www.chronicled.com/chargebacks)
+- 12: [Blockchain 101](https://www.computerworld.com/article/3191077/what-is-blockchain-the-complete-guide.html)
+- 13: [Block Geeks](https://blockgeeks.com/guides/smart-contracts/)
+- 14: [Forbes](https://www.forbes.com/sites/rachelwolfson/2019/05/02/pfizer-and-other-healthcare-companies-aim-to-bring-blockchain-based-chargeback-protocol-to-market/#50ceea31f5b3)
+- 15: [Chronicled](https://www.chronicled.com/chargebacks)
