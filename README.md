@@ -71,7 +71,7 @@ As the distributor, McKesson is in the awkward position of trying to enforce a c
 
 On top of the financial risk, the reconciliation of these timing differences adds considerable administrative costs for both the manufacturer and distributor. You may have also noticed that the customer is not involved in communicating or validating the contract pricing the manufacturer sends to McKesson. This creates the need for additional audits and controls for the customer as well. Ultimately, everyone spends considerable time and money validating that the price they pay is correct.
 
-### Recommendations and Potential Benefits
+## Recommendations and Potential Benefits
 
 The challenges described above are industry wide and not unique to McKesson. However, McKesson has the opportunity to gain a competitive advantage by reducing its operating costs and improving the customer experience through the use of a blockchain network.
 
